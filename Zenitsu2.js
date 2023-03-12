@@ -4147,7 +4147,7 @@ case 'music': case 'p': case 'play': case 'song': case 'ytplay': {
     let search = await yts(text)
     let anu = search.videos[0]
     const ytmp4play = await YT.mp4(anu.url)
- Deepak.sendMessage(from, {video:{url:ytmp4play.videoUrl}, mimetype:"video/mp4", caption:anu.title+' By *Deepak MD*',}, {quoted:m})
+ Deepak.sendMessage(from, {video:{url:ytmp4play.videoUrl}, mimetype:"video/mp4", caption:anu.title+' By *ShehanShah*',}, {quoted:m})
  }
  break
  case 'ytmp3': case 'ytmusic':  case 'ytmp4': case 'ytvideo': case 'ytdl':{
@@ -4199,7 +4199,7 @@ case 'music': case 'p': case 'play': case 'song': case 'ytplay': {
  if (isBanChat) return reply(mess.bangc)
  const YT=require('./lib/ytdlcore')
     const ytmp4play2 = await YT.mp4(text)
- Deepak.sendMessage(from, {video:{url:ytmp4play2.videoUrl}, mimetype:"video/mp4", caption:'Downloaded by *Deepak MD*',}, {quoted:m})
+ Deepak.sendMessage(from, {video:{url:ytmp4play2.videoUrl}, mimetype:"video/mp4", caption:'Downloaded by *ShehanShah*',}, {quoted:m})
  }
  break
 
