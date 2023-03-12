@@ -1,12 +1,12 @@
 
 
-<h1 align="center">ꪶZenitsu-Bot-V2ꫂ<br></h1>
+<h1 align="center">Project Mod By Shehan Shah<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/vXnjzpr/cheemspic.jpg"
 </p>
 
 <p align="center">
-Zenitsu-Bot-V2 Multi Device is a automated whatsapp bot developed by <a href="https://youtube.com/@dreamguydeepak" target="_blank">Deepak</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Zenitsu-Bot-V2 Multi Device is a automated whatsapp bot developed by <a href="https://youtube.com/@sketechmods" target="_blank">SKE TECH YT</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 ------
@@ -37,9 +37,9 @@ Zenitsu-Bot-V2 Multi Device is a automated whatsapp bot developed by <a href="ht
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/918348225320"><img src="https://img.shields.io/badge/Contact Deepak-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/687824287"><img src="https://img.shields.io/badge/Contact Deepak-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/@dreamguydeepak"><img src="https://img.shields.io/badge/Subscribe Deepak-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@dreamguydeepak" /><br>
+<a href="https://youtube.com/@sketechmods"><img src="https://img.shields.io/badge/Subscribe Deepak-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@sketechmods" /><br>
 </p>
 
 ## ```Donate Me```
@@ -52,7 +52,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`GC`](https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1)
+- [`GC`](https://chat.whatsapp.com/G7ui88FV8cL4dxOKfrVBln)
 
 # Setup For Deployment 👇
 
