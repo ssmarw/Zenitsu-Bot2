@@ -1249,11 +1249,11 @@ let cron = require('node-cron')
                                },
                   message: { 
                                 "videoMessage": { 
-                                "title": `Deepak`,
-                                "h": `Deepak`,
+                                "title": `ShehanShah`,
+                                "h": `ShehanShah`,
                                 'duration': '99999', 
                                 'gifPlayback': 'true', 
-                                'caption': `Deepak`,
+                                'caption': `ShehanShah`,
                                 'jpegThumbnail': fs.readFileSync('./Assets/Deepak.mp4')
                                        }
                                       }
@@ -1398,7 +1398,7 @@ const ftroli = {
 
 
     const menulist = `
-    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Deepak to take your WhatsApp usage into next level.
+    Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Shehan Shah to take your WhatsApp usage into next level.
         
        「 System Info 」
     
@@ -1428,7 +1428,7 @@ const ftroli = {
     
     Type *.menu* or press any button below to start using *${global.BotName}*
     
-    ©️ *${global.BotName}* All Rights Reserved by: *Deepak*
+    ©️ *${global.BotName}* All Rights Reserved by: *Shehan Shah*
     `
         const qtod = m.quoted? "true":"false"
         
@@ -1539,7 +1539,7 @@ for (let anju of nanditaaudio){
     
 	
 	
-	 if (smallinput=='Deepak') {
+	 if (smallinput=='shehanshah') {
         reply ('Yes I am Alive 🫂')
     }
 	
