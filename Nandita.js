@@ -27,14 +27,14 @@ console.log(color(figlet.textSync('ZenitsuBot', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Deepak, the main Developer of this bot.\n\nThanks for using: Zenitsu Bot','aqua'))
-console.log(color('\nYou can follow me on Instagram: deepak_gupta_2006','aqua'))
+console.log(color('\nHello, I am ShehanShah, the main Developer of this bot.\n\nThanks for using: Auto Bot','aqua'))
+console.log(color('\nYou can follow me on Instagram: ShehanShah.ofc','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Deepak = DeepakConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Zenitsu by: Deepak','Safari','1.0.0'],
+        browser: ['Auto Bot by: ShehanShah','Safari','1.0.0'],
         auth: state,
         version
     })
@@ -96,20 +96,20 @@ Deepak.ev.on('groups.update', async pea => {
         }
         let wm_fatih = { url : ppgc }
         if (pea[0].announce == true) {
-        //Deepak.send5ButImg(pea[0].id, `Grop has been *Closed!* Only *Admins* can send Messages!`, `Deepak Bot`, wm_fatih, [])
+        //Deepak.send5ButImg(pea[0].id, `Grop has been *Closed!* Only *Admins* can send Messages!`, `Auto Bot`, wm_fatih, [])
 
         Deepak.sendMessage(m.chat, { image: wm_fatih, caption: 'Grop has been *Closed!* Only *Admins* can send Messages!'})
         } else if(pea[0].announce == false) {
-       // Deepak.send5ButImg(pea[0].id, `Grop has been *Opened!* Now *Everyone* can send Messages!`, `Deepak Bot`, wm_fatih, [])
+       // Deepak.send5ButImg(pea[0].id, `Grop has been *Opened!* Now *Everyone* can send Messages!`, `Auto Bot`, wm_fatih, [])
        Deepak.sendMessage(m.chat, { image: wm_fatih, caption: 'Grop has been *Opened!* Now *Everyone* can send Messages!'})
         } else if (pea[0].restrict == true) {
-        //Deepak.send5ButImg(pea[0].id, `Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !`, `Deepak Bot`, wm_fatih, [])
+        //Deepak.send5ButImg(pea[0].id, `Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !`, `Auto Bot`, wm_fatih, [])
         Deepak.sendMessage(m.chat, { image: wm_fatih, caption: 'Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !'})
         } else if (pea[0].restrict == false) {
-        //Deepak.send5ButImg(pea[0].id, `Group Info modification has been *Un-Restricted*, Now only *Everyone* can edit Group Info !`, `Deepak Bot`, wm_fatih, [])
+        //Deepak.send5ButImg(pea[0].id, `Group Info modification has been *Un-Restricted*, Now only *Everyone* can edit Group Info !`, `Auto Bot`, wm_fatih, [])
         Deepak.sendMessage(m.chat, { image: wm_fatih, caption: 'Group Info modification has been *Un-Restricted*, Now only *Everyone* can edit Group Info !'})
         } else {
-        //Deepak.send5ButImg(pea[0].id, `Group Subject has been uhanged To:\n\n*${pea[0].subject}*`, `Deepak Bot`, wm_fatih, [])
+        //Deepak.send5ButImg(pea[0].id, `Group Subject has been uhanged To:\n\n*${pea[0].subject}*`, `Auto Bot`, wm_fatih, [])
         Deepaktextddfq =`Group Subject has been updated To:\n\n*${pea[0].subject}*`
         Deepak.sendMessage(pea[0].id, { image: wm_fatih, caption: Deepaktextddfq})
       }
@@ -152,7 +152,7 @@ Deepak.ev.on('group-participants.update', async (anu) => {
                 Deepaktext = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *ZenitsuBot*, Welcome to ${metadata.subject}.
+I am *AutoBot* Created By ShehanShah, Welcome to ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
